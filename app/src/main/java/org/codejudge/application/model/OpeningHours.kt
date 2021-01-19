@@ -1,0 +1,7 @@
+package org.codejudge.application.model
+
+import java.io.Serializable
+
+class OpeningHours : Serializable {
+    var open_now: Boolean = false
+}

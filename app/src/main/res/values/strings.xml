@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NearByTestApp</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="hint_search_restaurant">Search Nearby Restaurant</string>
+    <string name="restaurants_not_found">Restaurants not found</string>
+    <string name="you_are_offline">You are Offline</string>
+    <string name="an_error_occured_while_loading_data">An error occured while loading data</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="google_maps_key">AIzaSyD0AQBJ_BwInY5Tv_0tqGPJIWL7FcllnH0</string>
+
+</resources>
